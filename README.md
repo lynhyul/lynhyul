@@ -39,7 +39,7 @@ Dacon - 태양광 발전량 예측 AI 경진대회 - 110th <br>
 Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - 38th <br>
 <br>
 🏅 AWARD <br>
-공주대학교 졸업작품 학부 경진대회 동상(3th) - 반려동물 건강확인 장치(wearable device for My pet) <br>
+공주대학교 졸업작품 학부 경진대회 동상(3th) - 반려동물 건강확인 장치(Wearable device for my pet) <br>
 <br>
 📖 STUDY <br>
 에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정 <br>
