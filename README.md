@@ -43,4 +43,6 @@ Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - 38th <br>
 <br>
 📖 STUDY <br>
 에이아이아카데미학원 머신러닝 딥러닝 기반 인공지능 고급개발자 과정 <br>
-IDEC 주관 충북대학교	라즈베리 파이를 이용한 리눅스 기초 관련 수업 수료 <br>
+IDEC 주관 충북대학교	라즈베리 파이를 이용한 리눅스 기초 수업 수료 <br>
+
+< 형식 참고 Git : https://github.com/seoyoungs/seoyoungs >
