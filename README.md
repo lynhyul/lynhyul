@@ -11,7 +11,7 @@ Email : lynhyul@naver.com <br>
 ![image](https://user-images.githubusercontent.com/76422150/117407065-f6ea7a00-af48-11eb-9892-f602751e5338.png) : https://dacon.io/myprofile/416676/competition/ <br>
 ![image](https://user-images.githubusercontent.com/76422150/117407129-12ee1b80-af49-11eb-8a4a-5a45128ccad7.png)
  : https://www.kaggle.com/hwangsungeun <br>
-Blog : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머신러닝)과 관련 된 공부내용 업로드 <br>
+Blog : https://blog.naver.com/lynhyul  <br>
 <br>
 
 
