@@ -8,13 +8,11 @@ Vision AI쪽을 선호하며, 센서와 관련 된 AI프로젝트도 좋아합�
 <br>
 <br>
 
-![image](https://user-images.githubusercontent.com/76422150/117407263-4761d780-af49-11eb-952f-a55e12904f80.png)
- : lynhyul@naver.com <br>
+Email : lynhyul@naver.com <br>
 ![image](https://user-images.githubusercontent.com/76422150/117407065-f6ea7a00-af48-11eb-9892-f602751e5338.png) : https://dacon.io/myprofile/416676/competition/ <br>
 ![image](https://user-images.githubusercontent.com/76422150/117407129-12ee1b80-af49-11eb-8a4a-5a45128ccad7.png)
  : https://www.kaggle.com/hwangsungeun <br>
-![image](https://user-images.githubusercontent.com/76422150/117407228-3913bb80-af49-11eb-9b23-db65e926c282.png)
- : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머신러닝)과 관련 된 공부내용 업로드 <br>
+Blog : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머신러닝)과 관련 된 공부내용 업로드 <br>
 <br>
 
 language <br>
