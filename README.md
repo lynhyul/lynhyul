@@ -15,9 +15,8 @@ Blog : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머
 <br>
 
 
-My Tech <br>
+Language <br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
-<br>
 Machine learning / Deep learning <br>
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> 
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
