@@ -33,7 +33,7 @@ Machine learning / Deep learning <br>
 TensorFlow Developer Certificate <br>
 
 🏆 Competition <br>
-Lotte - Vision AI 경진대회 - TOP 6% (12th) <br>
+Lotte - Vision AI 경진대회 - Top 6% (12th) <br>
 Keggle - Tabular Playground Series(Apr 2021) - Top 1.4% (15th) <br>
 Dacon - 태양광 발전량 예측 AI 경진대회 - Top 23% (110th) <br>
 Dacon - 제 2회 컴퓨터 비전 학습 경진대회 - Top 17% (38th) <br>
