@@ -14,7 +14,7 @@ kaggle : https://www.kaggle.com/hwangsungeun <br>
 Blog : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머신러닝)과 관련 된 공부내용 업로드 <br>
 <br>
 
-language
+language <br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
 <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <br>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <br>
