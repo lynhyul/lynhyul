@@ -9,8 +9,9 @@ Vision AI쪽을 선호하며, 센서와 관련 된 AI프로젝트도 좋아합�
 <br>
 
 Email : lynhyul@naver.com <br>
-Dacon : https://dacon.io/myprofile/416676/competition/ <br>
-kaggle : https://www.kaggle.com/hwangsungeun <br>
+![image](https://user-images.githubusercontent.com/76422150/117406984-dc180580-af48-11eb-9e32-ee5ac4406823.png) : https://dacon.io/myprofile/416676/competition/ <br>
+![image](https://user-images.githubusercontent.com/76422150/117406952-cf93ad00-af48-11eb-8d13-b387acdbc86b.png)
+ : https://www.kaggle.com/hwangsungeun <br>
 Blog : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머신러닝)과 관련 된 공부내용 업로드 <br>
 <br>
 
