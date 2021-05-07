@@ -1,10 +1,10 @@
 # Sungeun
 
 
-AI 개발자 황성은 입니다.
-저는 Tensorflow 개발자입니다. 👨‍💻
-Vision AI쪽을 선호하며, 센서와 관련 된 AI프로젝트도 좋아합니다.
-<br>
+AI 개발자 황성은 입니다.<br>
+저는 Tensorflow 개발자입니다. 👨‍💻<br>
+Vision AI쪽을 선호하며, 센서와 관련 된 AI프로젝트도 좋아합니다.<br>
+
 
 Email : lynhyul@naver.com
 Dacon : https://dacon.io/myprofile/416676/competition/
