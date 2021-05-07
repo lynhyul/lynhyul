@@ -2,8 +2,7 @@
 
 
 AI 개발자 황성은 입니다.<br>
-저는 Tensorflow 개발자입니다. 👨‍💻<br>
-Vision AI쪽을 선호하며, 센서와 관련 된 AI프로젝트도 좋아합니다.<br>
+저는 Vision AI쪽을 선호하며, 센서와 관련 된 AI프로젝트도 좋아합니다.<br>
 
 <br>
 <br>
@@ -15,7 +14,8 @@ Email : lynhyul@naver.com <br>
 Blog : https://blog.naver.com/lynhyul // 케라스 텐서플로우(딥러닝,머신러닝)과 관련 된 공부내용 업로드 <br>
 <br>
 
-language <br>
+![image](https://user-images.githubusercontent.com/76422150/117407769-fef6e980-af49-11eb-8eea-4eb5d87181d4.png)
+My Tech <br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
 <br>
 Machine learning / Deep learning <br>
