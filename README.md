@@ -8,9 +8,8 @@ AI 개발자 황성은 입니다.<br>
 <br>
 
 Email : lynhyul@naver.com <br>
-![image](https://user-images.githubusercontent.com/76422150/117407065-f6ea7a00-af48-11eb-9892-f602751e5338.png) : https://dacon.io/myprofile/416676/competition/ <br>
-![image](https://user-images.githubusercontent.com/76422150/117407129-12ee1b80-af49-11eb-8a4a-5a45128ccad7.png)
- : https://www.kaggle.com/hwangsungeun <br>
+Dacon : https://dacon.io/myprofile/416676/competition/ <br>
+Kaggle : https://www.kaggle.com/hwangsungeun <br>
 Blog : https://blog.naver.com/lynhyul  <br>
 <br>
 
